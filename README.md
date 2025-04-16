@@ -17,3 +17,6 @@ Not thoroughly tested for bugs, but it seems to work as intended as far as I am 
 - Included scripts needed to get Librespot (premium only) to emulate a permanent device.
 
 The intention of this project was to learn and experiment with disinformation that hopefully reaches targeted advertisements.
+
+WebUI:
+![](webui.png)
